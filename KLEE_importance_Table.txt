@@ -1,0 +1,70 @@
+                             #PCA   #Tree   #XGbost
+mean_trace_length            0.99   0.088   0.086
+median_trace_length          4.13   0.079   0.030
+max_trace_length             5.90   0.238   0.258
+min_trace_length             4.51   0.061   0.023
+
+mean_global_nesting_depth    0.00   0.000   0.081
+median_global_nesting_depth  3.71   0.000   0.015  
+max_global_nesting_depth     4.14   0.082   0.080
+min_global_nesting_depth     2.00   0.147   0.053
+
+mean_call_depth              0.00   0.000   0.064
+median_call_depth            2.89   0.000   0.016
+max_call_depth               1.86   0.000   0.053
+min_call_depth               5.73   0.000    NIL
+
+mean_no_of_local_variable    0.00   0.125   0.074
+median_no_of_local_variable  9.12   0.145   0.051
+max_no_of_local_variable     1.02   0.031   0.107
+min_no_of_local_variable     4.11   0.000   0.011
+
+
+                             #PCA   
+median_no_of_local_variable  9.12   
+max_trace_length             5.90   
+min_call_depth               5.73   
+min_trace_length             4.51   
+max_global_nesting_depth     4.14   
+median_trace_length          4.13   
+min_no_of_local_variable     4.11   
+median_global_nesting_depth  3.71     
+median_call_depth            2.89   
+min_global_nesting_depth     2.00   
+max_call_depth               1.86   
+max_no_of_local_variable     1.02   
+mean_trace_length            0.99   
+
+
+                             #Decision_Tree   
+max_trace_length             0.238   
+min_global_nesting_depth     0.147   
+median_no_of_local_variable  0.145   
+mean_no_of_local_variable    0.125   
+mean_trace_length            0.088   
+max_global_nesting_depth     0.082   
+median_trace_length          0.079   
+min_trace_length             0.061   
+max_no_of_local_variable     0.031   
+
+
+                             #XGbost
+max_trace_length             0.258
+max_no_of_local_variable     0.107
+mean_trace_length            0.086
+mean_global_nesting_depth    0.081
+max_global_nesting_depth     0.080
+mean_no_of_local_variable    0.074
+mean_call_depth              0.064
+min_global_nesting_depth     0.053
+max_call_depth               0.053
+median_no_of_local_variable  0.051
+median_trace_length          0.030
+min_trace_length             0.023
+median_call_depth            0.016
+median_global_nesting_depth  0.015
+min_no_of_local_variable     0.011
+
+
+
+

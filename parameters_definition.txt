@@ -1,0 +1,6 @@
+"trace_length", "global_nesting_depth", "call_depth", "no_of_local_variable", "taint_count"]
+trace_length:-  how many for loops or if else come before the line where bug is present
+global_nesting_depth :-  real depth of if-else / for / while when used inside for / if-else / while   
+call_depth :- recursive depth of function at which bug is present
+no_of_local_variable :- 
+taint_count :- no of times the given condition inside if-else or any is updated if many updation is present then taint count is max of them
